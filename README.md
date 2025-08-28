@@ -58,4 +58,4 @@ streamlit run app.py
 ## 👤 Author
 **Shashank Sharma**  
 📧 Email: shashank270298@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/shashank-sharma)
+🔗https://www.linkedin.com/in/shashank-sharma-361288229/
